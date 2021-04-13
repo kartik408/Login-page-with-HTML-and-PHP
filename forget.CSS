@@ -1,0 +1,26 @@
+.row{
+  margin-top: 120px;
+}
+h2{
+  font-size: 27px;
+  font-family: sans-serif;
+  color: black;
+  margin-bottom: 30px;
+}
+body{
+  background-color: whitesmoke;
+}
+input{
+  background-color: white;
+  padding: 20px;
+}
+form{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+.btn-success{
+  display: inline;
+  margin-left: 145px;
+  margin-top: 20px;
+}

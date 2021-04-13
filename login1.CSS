@@ -1,0 +1,52 @@
+.row{
+    margin-top: 150px;
+}
+h1{
+    font-size: 50px;
+    font-family:sans-serif;
+    color: #435DDF;
+    margin-top: 40px;
+}
+body{
+    background-color: whitesmoke;
+}
+p{
+    font-size: 20px;
+}
+input{
+    background-color: white;
+    margin-top: 10px;
+    padding: 20px;
+}
+.btn-primary{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 155px;
+}
+.create{
+  text-decoration: none;
+  color: white;
+  margin-top: auto;
+}
+.create:hover{
+  color: white;
+}
+form{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+a{
+    display: block;
+    margin-top: 3px;
+}
+.btn-success{
+    display: inline-block;
+    margin-left: 105px;
+}
+.a{
+    display: inline;
+    margin-left: 60px;
+    color: black;
+    text-decoration: none;
+}
